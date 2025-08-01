@@ -192,32 +192,36 @@ quickcart/
 
 ### 🏠 Homepage
 
-<img width="1920" height="3761" alt="home" src="" />
+<img width="1920" height="3761" alt="home" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468982570-8c255095-74e8-48c5-9987-08f5bb3450d4.png?raw=true" />
 
 ### 📱 Product Catalog
 
-<img width="1920" height="1556" alt="all-produts" src="" />
+<img width="1920" height="1556" alt="all-produts" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468982797-d1ea1ed9-237e-4aa5-907c-a5ad23c83222.png?raw=true" />
 
 ### 🔍 Product Details
 
-<img width="1920" height="2093" alt="product-details" src="" />
+<img width="1920" height="2093" alt="product-details" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468982876-24c7b33e-e462-4b6a-9b47-327aaec7d5e4.png?raw=true" />
 
 ### 🛒 Shopping Cart
 
-<img width="1920" height="868" alt="cart" src="" />
+<img width="1920" height="868" alt="cart" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468982940-f2ef988e-70be-448d-a696-25f4c727903a.png?raw=true" />
 
 ### 📦 Order History
 
-<img width="1920" height="1333" alt="my-orders" src="" />
+<img width="1920" height="1333" alt="my-orders" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468983060-5e07caee-799b-4a67-8121-f9c231396868.png?raw=true" />
 
 ### ➕ Add Product (Seller)
 
-<img width="1920" height="953" alt="add-product" src="" />
+<img width="1920" height="953" alt="add-product" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468983404-0b528e4b-260c-433b-a111-23dd42efad5a.png?raw=true" />
 
 
 ### 📊 List of Products (Seller)
 
-<img width="1920" height="1473" alt="product-list" src="" />
+<img width="1920" height="1473" alt="product-list" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/468983787-d2e72919-77aa-4f9d-8597-edc737939a83.png?raw=true" />
+
+
+### Stripe
+<img width="1920" height="1473" alt="product-list" src="https://github.com/shahil8848/Quickcart-/blob/main/screenshot/Screenshot%202025-07-31%20172023.png?raw=true" />
 
 
 
